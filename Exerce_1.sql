@@ -56,9 +56,10 @@ SELECT First_Name AS FN ,
 FROM customers;
 
 --10 - Create a query to display unique monthly discounts in Customers table.
-SELECT DISTINCT monthly_discount
+SELECT DISTINCT monthly_discount AS MD
 FROM customers;
 
 --11 - Create a query to display unique monthly discounts in Customers table.
 SELECT DISTINCT pack_id
 FROM customers;
+
