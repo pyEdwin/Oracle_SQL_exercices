@@ -1,9 +1,9 @@
-                        <h6> Oracle SQLExercices <h6>
+                        Oracle SQL Exercices 
 
 tables:
-<h6>pack_grades </h6></br>
-<h6>customers </h6></br>
-<h6>packages </h6></br>
-<h6>sectors)</h6></br>
+<h6>pack_grades </h6>
+<h6>customers </h6>
+<h6>packages </h6>
+<h6>sectors)</h6>
 
 Exercice 1 : Basic SELECT Statement
