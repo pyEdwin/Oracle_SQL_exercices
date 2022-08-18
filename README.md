@@ -7,3 +7,5 @@ tables:
 <h6>sectors)</h6>
 
 Exercice 1 : Basic SELECT Statement
+
+Exercice 2: Filtering and Sorting
